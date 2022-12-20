@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Jose Gomez!
-Creative Technologist & Modern Javascript Developer
+Creative Technologist & Modern Javascript Developer.
 
 <!--- Automatic updating DevCard by leveraging GitHub actions ---> 
 <a href="https://app.daily.dev/astrofreakazoid"><img src="https://github.com/josegomez-dev/josegomez-dev/blob/master/devcard.svg" width="400" alt="Jose Gomez's Dev Card"/></a>

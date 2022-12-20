@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Jose Gomez!
 Creative Technologist & Modern Javascript Developer
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/josegomez-dev/josegomez-dev/blob/master/devcard.svg" width="400" alt="Jose Gomez's Dev Card"/></a>
+<a href="https://app.daily.dev/astrofreakazoid"><img src="https://github.com/josegomez-dev/josegomez-dev/blob/master/devcard.svg" width="400" alt="Jose Gomez's Dev Card"/></a>
 
 - 🔭 I’m currently working as a Full-stack JS Engineer at https://www.foundationlab.co
 - 🌱 I’m currently learning React Native & Sports Betting

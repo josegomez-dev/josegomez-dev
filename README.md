@@ -12,4 +12,5 @@ Creative Technologist & Modern Javascript Developer.
 - 📫 How to reach me: josegomez.dev@gmail.com / + 506 6240-2974
 
  <!--- Manual adding your DevCard by copying the code --->
-<a href="https://app.daily.dev/astrofreakazoid"><img src="https://api.daily.dev/devcards/824f7c07e6d449b2a731c36cf907da30.png?r=b1d" width="400" alt="Jose Gomez's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/astrofreakazoid"><img src="https://api.daily.dev/devcards/824f7c07e6d449b2a731c36cf907da30.png?r=b1d" width="400" alt="Jose Gomez's Dev Card"/></a>
+ -->

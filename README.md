@@ -7,7 +7,7 @@ Creative Technologist & Modern Javascript Developer.
 - 🔭 I’m currently working as a Full-stack JS Engineer at https://www.foundationlab.co
 - 🌱 I’m currently learning React Native & Sports Betting
 - 👯 I’m looking to collaborate on Web3 stuff
-- 🤔 I’m looking for help with my personal (musical) project www.patreon.com/josegomez
+- 🤔 I’m looking to build a musical based cool project www.patreon.com/josegomez
 - 💬 Ask me about anything!
 - 📫 How to reach me: josegomez.dev@gmail.com / + 506 6240-2974
 

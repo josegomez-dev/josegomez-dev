@@ -1,10 +1,11 @@
-### Hi there 👋, I am Jose Gomez!
-Creative Technologist & Modern Javascript Developer.
+### Hi there 👋, I am José Alejandro Gómez Castro!
+Creative Technologist, Software Engineer & Musician 🤠
+Support me: https://www.patreon.com/josegomez
 
 <!--- Automatic updating DevCard by leveraging GitHub actions ---> 
 <a href="https://app.daily.dev/astrofreakazoid"><img src="https://github.com/josegomez-dev/josegomez-dev/blob/main/devcard.svg" width="400" alt="Jose Gomez's Dev Card"/></a>
 
-- 🔭 I’m currently working as a Full-stack JS Engineer at https://www.foundationlab.co
+- 🔭 I’m currently working as a Freelancer and growing own Bu
 - 🌱 I’m currently learning React Native & Sports Betting
 - 👯 I’m looking to collaborate on Web3 stuff
 - 🤔 I’m looking to build a musical based cool project www.patreon.com/josegomez

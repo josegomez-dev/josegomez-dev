@@ -1,5 +1,6 @@
 ### Hi there 👋, I am José Alejandro Gómez Castro!
-Creative Technologist & Modern Javascript Developer.
+Creative technologist, Software engineer & Musician 🤠 
+Support me: https://www.patreon.com/josegomez
 
 <!--- Automatic updating DevCard by leveraging GitHub actions ---> 
 <a href="https://app.daily.dev/astrofreakazoid"><img src="https://github.com/josegomez-dev/josegomez-dev/blob/main/devcard.svg" width="400" alt="Jose Gomez's Dev Card"/></a>

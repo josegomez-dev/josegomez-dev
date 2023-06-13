@@ -1,5 +1,5 @@
 ### Hi there 👋, I am José Alejandro Gómez Castro!
-Creative technologist, Software engineer & Musician 🤠 
+Creative technologist, Modern Javascript Software Engineer & Musician 🤠 
 
 Support me: https://www.patreon.com/josegomez
 

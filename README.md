@@ -1,14 +1,13 @@
 ### Hi there 👋, I am José Alejandro Gómez Castro!
-Creative Technologist, Software Engineer & Musician 🤠
-Support me: https://www.patreon.com/josegomez
+Creative Technologist & Modern Javascript Developer.
 
 <!--- Automatic updating DevCard by leveraging GitHub actions ---> 
 <a href="https://app.daily.dev/astrofreakazoid"><img src="https://github.com/josegomez-dev/josegomez-dev/blob/main/devcard.svg" width="400" alt="Jose Gomez's Dev Card"/></a>
 
-- 🔭 I’m currently working as a Freelancer and growing own Bu
-- 🌱 I’m currently learning React Native & Sports Betting
-- 👯 I’m looking to collaborate on Web3 stuff
-- 🤔 I’m looking to build a musical based cool project www.patreon.com/josegomez
+- 🔭 I’m currently working as a Modern Javascript Sofware Developer & PO at [Go4Lab](https://josegomezdev.github.io/go4lab/)
+- 🌱 I’m currently learning Game Development Technology & Design Product 
+- 👯 I’m looking to collaborate on Web3 World
+- 🤔 I’m looking to build a personal music project www.patreon.com/josegomez
 - 💬 Ask me about anything!
 - 📫 How to reach me: josegomez.dev@gmail.com / + 506 6240-2974
 

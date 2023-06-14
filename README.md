@@ -4,7 +4,7 @@ Creative technologist, Modern Javascript Software Engineer & Musician 🤠
 Support me: https://www.patreon.com/josegomez
 
 <!--- Automatic updating DevCard by leveraging GitHub actions ---> 
-<a href="https://app.daily.dev/josegomezdev"><img src="https://github.com/josegomezdev/josegomezdev/blob/main/devcard.svg" width="400" alt="Jose Gomez's Dev Card"/></a>
+<a href="https://app.daily.dev/josegomezdev"><img src="https://github.com/josegomezdev/josegomezdev/blob/main/devcard1.svg" width="400" alt="Jose Gomez's Dev Card"/></a>
 
 - 🔭 I’m currently working as a Freelancer (Modern Javascript Sofware Developer)
 - 🚀 I’m currently building a software/tech company at [Go4Lab](https://josegomezdev.github.io/go4lab/)

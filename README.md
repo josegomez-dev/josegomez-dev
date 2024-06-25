@@ -1,14 +1,13 @@
 ### Hi there 👋, I am José Alejandro Gómez Castro!
 Creative technologist, Modern Javascript Software Engineer & Musician 🤠 
 
-Support me: https://www.patreon.com/josegomez
+Support me: https://www.patreon.com/josegomez/
+Portfolio (Digital CV): https://josegomez-dev.github.io/resume/
 
 <!--- Automatic updating DevCard by leveraging GitHub actions ---> 
 <a href="https://app.daily.dev/josegomezdev"><img src="https://github.com/josegomezdev/josegomezdev/blob/main/devcard.svg" width="400" alt="José Alejandro Gómez Castro"/></a>
 
-- 🔭 I’m currently working as a Freelancer (Modern Javascript Sofware Developer)
-- 🚀 I’m currently building a software/tech company at [Go4Lab](https://josegomezdev.github.io/go4lab/)
-- 🌱 I’m currently learning Game Development Technology & Design Product
+- 🔭 I’m currently looking for a Full-Stack Javascript role (using MERN stack)
 - 👯 I’m looking to collaborate on Web3 World
 - 💬 Ask me about anything!
 - 📫 How to reach me: josegomez.dev@gmail.com / + 506 6240-2974

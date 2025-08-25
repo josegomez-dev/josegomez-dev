@@ -7,7 +7,7 @@ Portfolio (Digital CV): https://josegomez-dev.github.io/resume/
 <!--- Automatic updating DevCard by leveraging GitHub actions ---> 
 <a href="https://app.daily.dev/josegomezdev"><img src="https://github.com/josegomezdev/josegomezdev/blob/main/devcard.svg" width="400" alt="José Alejandro Gómez Castro"/></a>
 
-- 🔭 I’m currently looking for a Full-Stack Javascript role (using MERN stack)
+- 🔭 I’m currently looking for a Web3 Full-Stack Javascript role
 - 👯 I’m looking to collaborate on Web3 World
 - 💬 Ask me about anything!
 - 📫 How to reach me: josegomez.dev@gmail.com / + 506 6240-2974
